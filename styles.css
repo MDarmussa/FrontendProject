@@ -407,3 +407,12 @@ background-color: #C8651B;
 .button-main:hover{
 background-color: black;
 }
+
+.icons .fa:hover {
+    color:aquamarine !important;
+    cursor: pointer;
+}
+.icons .fa {
+    color: #F9EFEE;
+    
+}
